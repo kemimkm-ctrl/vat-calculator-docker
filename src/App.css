@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid rgb(196, 161, 7);
+  border: 3px solid rgb(196, 51, 7);
   padding: 10px;
 }
 
@@ -14,5 +14,5 @@
 
 body{
   padding: 10px;
-  background-color: rgb(207, 33, 140);
+  background-color: rgb(11, 22, 179);
 }
