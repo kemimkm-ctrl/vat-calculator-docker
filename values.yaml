@@ -1,0 +1,2 @@
+image: kemim1/vat:<+pipeline.sequenceId>
+replicas: 1
